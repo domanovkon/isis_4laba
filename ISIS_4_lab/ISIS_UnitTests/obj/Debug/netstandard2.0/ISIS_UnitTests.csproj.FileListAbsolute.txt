@@ -1,0 +1,13 @@
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\bin\Debug\netstandard2.0\ISIS_UnitTests.deps.json
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\bin\Debug\netstandard2.0\ISIS_UnitTests.dll
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\bin\Debug\netstandard2.0\ISIS_1_lab.exe
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\bin\Debug\netstandard2.0\ISIS_1_lab.pdb
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\bin\Debug\netstandard2.0\ISIS_1_lab.exe.config
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\obj\Debug\netstandard2.0\ISIS_UnitTests.csprojAssemblyReference.cache
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\obj\Debug\netstandard2.0\ISIS_UnitTests.csproj.CoreCompileInputs.cache
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\obj\Debug\netstandard2.0\ISIS_UnitTests.AssemblyInfoInputs.cache
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\obj\Debug\netstandard2.0\ISIS_UnitTests.AssemblyInfo.cs
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\obj\Debug\netstandard2.0\ISIS_UnitTests.csproj.CopyComplete
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\bin\Debug\netstandard2.0\ISIS_UnitTests.pdb
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\obj\Debug\netstandard2.0\ISIS_UnitTests.dll
+E:\5 семестр\ИСИС\ISIS_2_lab\ISIS_UnitTests\obj\Debug\netstandard2.0\ISIS_UnitTests.pdb
